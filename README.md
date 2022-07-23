@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-This command updates to the latest Discord.js update.
+This will help you block out words you don't want said in chat, you can put the code in the main bot file.
 
  To use this code you will need these files to compile
  
